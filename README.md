@@ -10,8 +10,8 @@
 - ####  [❷.PYTHON]
 
 ### 📩 Python Installation
-1. Download the repo
-2. extract 
+1. Download python 3.12
+2. Download the repo and extract 
 3. open a cmd window in the file
 4. type : pip install -r requirements.txt
 5. press enter then the .py file should work perfectly fine
