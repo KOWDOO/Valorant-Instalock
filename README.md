@@ -35,7 +35,7 @@ Nope impossible because it doesn't interact with the game memory at all , that's
 > the executable(.exe) version was compiled in a way that your antivirus doesn't like(?), but yes it is safe, you can review the source code and compile it yourself, you will get the same result.
 
 - How it works ?
-> your screen is a 2D screen so everytime you move your cursor it has a specific X and Y coordinates, all i did is taking every agent cooridnatesand and the LOCK BUTTON cooridnates , then i automated the process so your cursor teleport in the smallest period of time.
+> your screen is a 2D screen so everytime you move your cursor it has a specific X and Y coordinates, all i did is taking every agent cooridnates and and the LOCK BUTTON cooridnates , then i automated the process so your cursor teleport in the smallest period of time.
 ![image](https://github.com/KOWDOO/Valorant-Instalock/assets/150936272/eb5d0823-6821-4280-b6ba-17383f37d8f1)
 ![image](https://github.com/KOWDOO/Valorant-Instalock/assets/150936272/3dfed008-40b2-4950-bc97-7febf855a1a4)
 
