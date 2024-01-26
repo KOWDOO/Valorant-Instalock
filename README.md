@@ -14,15 +14,14 @@ EASY TO USE
 2. Run VALORANT
 3. Choose a agent via the menu
 4. Start a queue
-5. chose your agent in the menu ( of the exe )
-6. press TAB on the loading screen (before getting into the agent select tab on valorant )
-7. press TAB again after agent selected 
-8. Enjoy
+7. press TAB on the loading screen (before getting into the agent select tab on valorant )
+8. press TAB again after agent selected 
+9. Enjoy
 
 
 ## ❓ Can I get banned?
 
-Nope impossible because it doensn't interact with the game memory at all , that what makes it better than any other instalock page out here 
+Nope impossible because it doesn't interact with the game memory at all , that what makes it better than any other instalock page out here 
 
 ## FAQ
 - Why is my antivirus blocking Agent Picker?
@@ -30,8 +29,17 @@ Nope impossible because it doensn't interact with the game memory at all , that 
 
 - How it works ?
 > your screen is a 2D screen so everytime you move your cursor it has a specific X and Y coordinates, all i did is taking every agent cooridnatesand and the LOCK BUTTON cooridnates , then i automated the process so your cursor teleport in the smallest period of time possible ,
-![image](https://github.com/KOWDOO/Valorant-Instalock/assets/150936272/e731283d-28f8-4633-968f-a0e91561214a)
+![image](https://github.com/KOWDOO/Valorant-Instalock/assets/150936272/eb5d0823-6821-4280-b6ba-17383f37d8f1)
 ![image](https://github.com/KOWDOO/Valorant-Instalock/assets/150936272/3dfed008-40b2-4950-bc97-7febf855a1a4)
+
+## 🤷‍♀️ Support / Feedback:
+
+You can also make an issue on this repository and I'll check it out. Or you can hit me up on Discord `kowdonowdooo` <br>
+This tool only works if you play on NATIVE RESOLUTION ( 1920 x 1080 ) if you play on streched rez or any resolution beside the native one it won't work , i will add further resolution if this shit get somehow viral 
+<br>
+Note that I do not plan on developing this further, but I will maintain the code and update agents as time passes.
+
+<br>
 
 ## 📰 Credits
 All credits to me , i'm goated :)
