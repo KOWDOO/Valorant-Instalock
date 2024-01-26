@@ -10,11 +10,11 @@
 - ####  [❷.PYTHON]
 
 ### 📩 Python Installation
-1- Download the repo
-2- extract 
-3- open a cmd window in the file
-4- type : pip install -r requirements.txt
-5- press enter then the .py file should work perfectly fine
+1. Download the repo
+2. extract 
+3. open a cmd window in the file
+4. type : pip install -r requirements.txt
+5. press enter then the .py file should work perfectly fine
 
 ## How to use
 1. Download & run executable
