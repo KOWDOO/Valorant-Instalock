@@ -62,6 +62,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-https://github.com/KOWDOO/Valorant-Instalock/assets/150936272/f6235e35-ef2f-4809-a977-9a8a00bde51f
+
 
 
